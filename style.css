@@ -427,6 +427,12 @@ footer p{
         gap: 25px;
         z-index: 2;
     }
+
+    
+    .navigation-btn {
+        bottom: 62px;
+    }
+
 }
 
 @media (max-width:1220px) {
